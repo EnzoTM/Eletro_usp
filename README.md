@@ -1,7 +1,7 @@
 # Eletronica USP
 #
 
-##Alunos:
+Alunos:
 *Caue Paiva:
 <br>
 *Enzo Tonon Morente:
