@@ -12,7 +12,7 @@ Alunos:
 <br>
 *Pedro Louro: https://github.com/Peloro
 
-<br><br>
+<br>
 
 Professor:
 <br>
