@@ -2,11 +2,11 @@
 
 Alunos:
 <br>
-*Caue Paiva:
+*Caue Paiva: https://github.com/caue-paiva
 <br>
-*Enzo Tonon Morente:
+*Enzo Tonon Morente: https://github.com/EnzoTM
 <br>
-*João Pedro Godoy:
+*João Pedro Godoy: https://github.com/joaopgodoy
 <br>
 *Letícia Neves: https://github.com/Leticia-BNeves
 <br>
