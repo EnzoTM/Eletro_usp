@@ -1,7 +1,8 @@
 # Eletronica USP
-#
+
 
 Alunos:
+<br>
 *Caue Paiva:
 <br>
 *Enzo Tonon Morente:
@@ -14,5 +15,6 @@ Alunos:
 
 <br><br>
 
-##Professor:
+Professor:
+<br>
 *Simôes: 
