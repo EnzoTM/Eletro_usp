@@ -1,6 +1,5 @@
 # Eletronica USP
 
-teste
 Alunos:
 <br>
 *Caue Paiva:
