@@ -11,7 +11,7 @@ Alunos:
 <br>
 *Letícia Neves: https://github.com/Leticia-BNeves
 <br>
-*Pedro Louro: 
+*Pedro Louro: https://github.com/Peloro
 
 <br><br>
 
