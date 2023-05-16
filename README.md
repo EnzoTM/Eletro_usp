@@ -1,5 +1,11 @@
 # Eletronica USP
 
+<div align="center">
+  <img src="https://cdn.awsli.com.br/600x450/19/19192/produto/1568186/1479c92885.jpg" height="250">
+</div>
+
+<br>
+
 Alunos:
 <br>
 *Caue Paiva: https://github.com/caue-paiva
