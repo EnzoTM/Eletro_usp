@@ -22,4 +22,4 @@ Alunos:
 
 Professor:
 <br>
-*Simôes: https://gitlab.com/simoesusp
+*Simões: https://gitlab.com/simoesusp
