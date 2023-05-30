@@ -24,3 +24,7 @@ Professor:
 
 Circuito de um transformador (10 para 1) 127 V --> 12 V: https://tinyurl.com/2fp43uu7
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/transformador.png"> 
+</div>
+
