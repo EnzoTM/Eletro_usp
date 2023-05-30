@@ -1,9 +1,5 @@
 # Eletronica para computação - USP
 
-<div align="center">
-  <img src="https://cdn.awsli.com.br/600x450/19/19192/produto/1568186/1479c92885.jpg" height="250">
-</div>
-
 <br>
 
 Alunos:
@@ -23,3 +19,8 @@ Alunos:
 Professor:
 <br>
 *Simões: https://gitlab.com/simoesusp
+
+#
+
+Circuito de um transformador (10 para 1) 127 V --> 12 V: https://tinyurl.com/2fp43uu7
+
