@@ -28,3 +28,8 @@ Circuito de um transformador (10 para 1) 127 V --> 12 V: https://tinyurl.com/2fp
   <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/transformador.png"> 
 </div>
 
+Circuido com ponte de diodo para manter a tensão sempre positiva: https://tinyurl.com/25h6sfmd
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/diodo.png">
+</div>
