@@ -33,3 +33,10 @@ Circuido com ponte de diodo para manter a tensão sempre positiva: https://tinyu
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/diodo.png">
 </div>
+
+Circuito com capacitor. 
+Vs = 19v; Ripple = 1.9v (10%); Rt = 180 
+1.9 = 19 / (2 * 60 * c * 180) --> c = 4.6u
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/capacitor.png">
+</div>
