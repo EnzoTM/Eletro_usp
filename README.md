@@ -55,6 +55,5 @@ Vs = 19v; Ripple = 1.9v (10%); Rt = 180 <br>
 | 1 | Potenciômetro | R$ 7,00 | R$ 7,00 |
 | 1 | Ponte retificadora  | R$ 4,10 | R$ 4,10 |
 | 1 | Resistor 620  | R$ 0,07 | R$ 0,07 |
-| X | Resistor 1k  | R$ 0,07 | R$ |
-| X | Resistor 2k  | R$ 0,07 | R$ |
+| 3 | Resistor 1k  | R$ 0,07 | R$ 0,21 |
 |   | Valor total:  | | R$ |
