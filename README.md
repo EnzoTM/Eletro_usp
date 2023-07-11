@@ -49,14 +49,14 @@
 
 <h2>Fotos da Placa</h2>
 <div align="center">
-  //<img src="">
+  <! --<img src="">
 </div>
 
 </br>
 
 <h2>Video do Projeto</h2>
 <div align="center">
-  //<img src="">
+  <! --<img src="">
 </div>
 
 </br>
