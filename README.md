@@ -49,7 +49,8 @@
 
 <h2>Fotos da Placa</h2>
 <div align="center">
-  <! --<img src="">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20PCB%20Eagle.png">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20PCB%20Eagle.png">
 </div>
 
 </br>
