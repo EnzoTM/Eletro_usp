@@ -2,17 +2,14 @@
 
 <br>
 
-Alunos:
-<br>
-*Caue Paiva: https://github.com/caue-paiva
-<br>
-*Enzo Tonon Morente: https://github.com/EnzoTM
-<br>
-*João Pedro Godoy: https://github.com/joaopgodoy
-<br>
-*Letícia Neves: https://github.com/LeticiaBN
-<br>
-*Pedro Louro: https://github.com/Peloro
+<b>Integrantes do grupo:</b>
+<ul>
+  <li>Caue Paiva: https://github.com/caue-paiva</li>
+  <li>Enzo Tonon Morente: https://github.com/EnzoTM</li>
+  <li>João Pedro Godoy: https://github.com/joaopgodoy</li>
+  <li>Letícia Neves: https://github.com/LeticiaBN</li>
+  <li>Pedro Louro: https://github.com/Peloro</li>
+</ul>
 
 <br>
 
