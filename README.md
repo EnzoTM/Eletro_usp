@@ -13,7 +13,7 @@
 
 <br>
 
-<b>Professor</b>
+<b>Professor:</b>
 <br>
 <ul>
   <li>Simões: https://gitlab.com/simoesusp</li>
