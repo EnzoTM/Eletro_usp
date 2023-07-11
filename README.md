@@ -29,6 +29,20 @@ Circuito da fonte no falstad: https://tinyurl.com/2bczdyul
 
 </br>
 
+<h1>Projeto Esquemático no Eagle</h1>
+<div align="center">
+  <img src="">
+</div>
+
+</br>
+
+<h1>Projeto PCB no Eagle</h1>
+<div align="center">
+  <img src="">
+</div>
+
+</br>
+
 <h1>Componentes e valores:</h1>
 
 | Quantidade  | Componente | Valor Unitário | Valor Total |
