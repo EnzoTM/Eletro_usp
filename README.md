@@ -31,14 +31,14 @@ Circuito da fonte no falstad: https://tinyurl.com/2bczdyul
 
 <h1>Projeto Esquemático no Eagle</h1>
 <div align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20Schematic%20Eagle.png">
 </div>
 
 </br>
 
 <h1>Projeto PCB no Eagle</h1>
 <div align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20PCB%20Eagle.png">
 </div>
 
 </br>
