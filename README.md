@@ -43,6 +43,20 @@ Circuito da fonte no falstad: https://tinyurl.com/2bczdyul
 
 </br>
 
+<h1>Fotos da Placa</h1>
+<div align="center">
+  <img src="">
+</div>
+
+</br>
+
+<h1>Video do Projeto</h1>
+<div align="center">
+  <img src="">
+</div>
+
+</br>
+
 <h1>Componentes e valores:</h1>
 
 | Quantidade  | Componente | Valor Unitário | Valor Total |
