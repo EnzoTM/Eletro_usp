@@ -10,7 +10,7 @@ Alunos:
 <br>
 *João Pedro Godoy: https://github.com/joaopgodoy
 <br>
-*Letícia Neves: [https://github.com/Leticia-BNeves](https://github.com/LeticiaBN)
+*Letícia Neves: https://github.com/LeticiaBN
 <br>
 *Pedro Louro: https://github.com/Peloro
 
