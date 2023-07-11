@@ -20,43 +20,48 @@
 </ul>
 
 #
+</br>
 
-Circuito da fonte no falstad: https://tinyurl.com/2bczdyul
+<h2>Circuito da fonte no falstad:</h2>
+<ul>
+  <li>https://tinyurl.com/2bczdyul</li>
+</ul>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/circuito_final.png">
 </div>
 
 </br>
 
-<h1>Projeto Esquemático no Eagle</h1>
+<h2>Projeto Esquemático no Eagle</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20Schematic%20Eagle.png">
 </div>
 
 </br>
 
-<h1>Projeto PCB no Eagle</h1>
+<h2>Projeto PCB no Eagle</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20PCB%20Eagle.png">
 </div>
 
 </br>
 
-<h1>Fotos da Placa</h1>
+<h2>Fotos da Placa</h2>
 <div align="center">
   <img src="">
 </div>
 
 </br>
 
-<h1>Video do Projeto</h1>
+<h2>Video do Projeto</h2>
 <div align="center">
   <img src="">
 </div>
 
 </br>
 
-<h1>Componentes e valores:</h1>
+<h2>Componentes e valores:</h2>
 
 | Quantidade  | Componente | Valor Unitário | Valor Total |
 | ------------- | ------------- | ------------- | ------------- |
