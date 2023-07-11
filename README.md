@@ -13,9 +13,11 @@
 
 <br>
 
-Professor:
+<b>Professor</b>
 <br>
-*Simões: https://gitlab.com/simoesusp
+<ul>
+  <li>Simões: https://gitlab.com/simoesusp</li>
+</ul>
 
 #
 
