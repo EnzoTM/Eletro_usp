@@ -49,8 +49,8 @@
 
 <h2>Fotos da Placa</h2>
 <div align="center">
-  <img src="">
-  <img src="">
+  <img style="width:500px;" src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/fonte_01.jpg">
+  <img style="width:500px;" src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/fonte_02.jpg">
 </div>
 
 </br>
