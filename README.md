@@ -75,4 +75,4 @@
 | 1 | Ponte retificadora | R$ 4,10 | R$ 4,10 |
 | 1 | Resistor 620 | R$ 0,07 | R$ 0,07 |
 | 3 | Resistor 1k | R$ 0,07 | R$ 0,21 |
-|   | Valor total: | | R$ |
+|   | Valor total: | | R$ 16,98 |
