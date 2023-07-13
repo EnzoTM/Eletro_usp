@@ -1,5 +1,5 @@
 # Eletronica para computação - USP
-# Projeto 1 - Fonte
+## Projeto 1 - Fonte
 
 <br>
 
