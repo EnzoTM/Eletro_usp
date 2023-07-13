@@ -55,10 +55,9 @@
 
 </br>
 
-<h2>Video do Projeto</h2>
-<div align="center">
-  <! --<img src="">
-</div>
+<h2>Videos do Projeto</h2>
+  <li>https://youtu.be/3pM5RVfACdk</li>
+  <li>https://youtube.com/shorts/K7Uv0AwxIl8?feature=share</li>
 
 </br>
 
