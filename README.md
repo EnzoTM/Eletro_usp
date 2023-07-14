@@ -34,6 +34,11 @@
 
 </br>
 
+<h2>Cálculos:</h2>
+<div align="center">
+  <img src="https://github.com/EnzoTM/Eletro_usp/blob/main/Eletro_USP/images/IMG_0884.PNG?raw=true">
+</div>
+
 <h2>Projeto Esquemático no Eagle</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnzoTM/Eletro_usp/main/Eletro_USP/images/Fonte%20Schematic%20Eagle.png">
